@@ -33,7 +33,6 @@
     "chai": "^4.3.4",
     "eslint": "^7.31.0",
     "eslint-config-google": "^0.14.0",
-    "iconv-lite": "^0.6.3",
     "mocha": "^9.0.2",
     "uglify-es": "^3.3.9"
   },
@@ -41,7 +40,7 @@
     "canvas": "^2.8.0",
     "canvas-dither": "^1.0.1",
     "canvas-flatten": "^1.0.1",
-    "codepage-encoder": "^1.0.0",
-    "linewrap": "^0.2.1"
+    "linewrap": "^0.2.1",
+    "iconv-lite": "^0.6.3"
   }
 }
